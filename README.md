@@ -39,7 +39,7 @@ I'm a Computer Engineering student at **KTH Royal Institute of Technology** in S
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
       </p>
-      <a href="https://smartvalguiden.se"><b>Visit the site →</b></a>
+      <a href="https://smartvalguiden.se"><b>Visit the site →</b></a> · <a href="https://github.com/Abdelrahman0816/SmartValGuiden"><b>About the project →</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>💀 Reaper</h3>
