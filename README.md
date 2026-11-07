@@ -50,7 +50,7 @@ I'm a Computer Engineering student at **KTH Royal Institute of Technology** in S
         <img src="https://img.shields.io/badge/UDP-Client--Server-555555?style=flat-square" alt="UDP client-server" />
       </p>
       <p><b>Client-server over UDP · frame-rate independent movement · tilemap collision</b></p>
-      <a href="https://github.com/huss122/Reaper-Public"><b>View the code →</b></a>
+      <a href="https://github.com/Abdelrahman0816/Reaper"><b>View the code →</b></a>
     </td>
   </tr>
 </table>
