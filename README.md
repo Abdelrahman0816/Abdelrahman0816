@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://smartvalguiden.se"><img src="https://img.shields.io/badge/Website-smartvalguiden.se-103F84?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-<a href="mailto:abduhassan930@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-103F84?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:abduhassan930@gmail.com"><img src="https://img.shields.io/badge/Email-abduhassan930%40gmail.com-103F84?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <img src="https://img.shields.io/badge/Stockholm-Sweden-103F84?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Stockholm, Sweden" />
 
 </div>
@@ -79,6 +79,12 @@ I'm a Computer Engineering student at **KTH Royal Institute of Technology** in S
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+
+<br/>
+
+## 📫 Contact
+
+Reach me at **[abduhassan930@gmail.com](mailto:abduhassan930@gmail.com)** or visit **[smartvalguiden.se](https://smartvalguiden.se)**.
 
 <br/>
 
